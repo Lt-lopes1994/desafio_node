@@ -19,7 +19,7 @@ Este projeto é um exemplo de aplicação Node.js que utiliza MySQL como banco d
 1. Clone o repositório:
 
     ```sh
-    git clone https://github.com/Lt-lopes1994/desafio_node.git
+    git clone git@github.com:Lt-lopes1994/desafio_node.git
     cd desafio_node_fc
     ```
 
